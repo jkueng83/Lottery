@@ -1,0 +1,13 @@
+C:\03_Coding\02 Projects\C#\AufgabeLottery\AufgabeLottery\bin\Debug\netcoreapp3.1\AufgabeLottery.exe
+C:\03_Coding\02 Projects\C#\AufgabeLottery\AufgabeLottery\bin\Debug\netcoreapp3.1\AufgabeLottery.deps.json
+C:\03_Coding\02 Projects\C#\AufgabeLottery\AufgabeLottery\bin\Debug\netcoreapp3.1\AufgabeLottery.runtimeconfig.json
+C:\03_Coding\02 Projects\C#\AufgabeLottery\AufgabeLottery\bin\Debug\netcoreapp3.1\AufgabeLottery.runtimeconfig.dev.json
+C:\03_Coding\02 Projects\C#\AufgabeLottery\AufgabeLottery\bin\Debug\netcoreapp3.1\AufgabeLottery.dll
+C:\03_Coding\02 Projects\C#\AufgabeLottery\AufgabeLottery\bin\Debug\netcoreapp3.1\AufgabeLottery.pdb
+C:\03_Coding\02 Projects\C#\AufgabeLottery\AufgabeLottery\obj\Debug\netcoreapp3.1\AufgabeLottery.csprojAssemblyReference.cache
+C:\03_Coding\02 Projects\C#\AufgabeLottery\AufgabeLottery\obj\Debug\netcoreapp3.1\AufgabeLottery.AssemblyInfoInputs.cache
+C:\03_Coding\02 Projects\C#\AufgabeLottery\AufgabeLottery\obj\Debug\netcoreapp3.1\AufgabeLottery.AssemblyInfo.cs
+C:\03_Coding\02 Projects\C#\AufgabeLottery\AufgabeLottery\obj\Debug\netcoreapp3.1\AufgabeLottery.csproj.CoreCompileInputs.cache
+C:\03_Coding\02 Projects\C#\AufgabeLottery\AufgabeLottery\obj\Debug\netcoreapp3.1\AufgabeLottery.dll
+C:\03_Coding\02 Projects\C#\AufgabeLottery\AufgabeLottery\obj\Debug\netcoreapp3.1\AufgabeLottery.pdb
+C:\03_Coding\02 Projects\C#\AufgabeLottery\AufgabeLottery\obj\Debug\netcoreapp3.1\AufgabeLottery.genruntimeconfig.cache
